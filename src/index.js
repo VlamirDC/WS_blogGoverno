@@ -1,3 +1,4 @@
+//unindo as funções de requisição de páginas (blog de notícias e blog notícias específicas)
 const axios = require(`axios`);
 const cheerio = require(`cheerio`);
 
